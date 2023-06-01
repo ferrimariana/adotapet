@@ -1,0 +1,276 @@
+
+*{
+    margin: 0%;
+    padding: 0%;
+   }
+       
+   body{   
+   background-color: white;
+   }
+       
+   #foto2{
+   margin-top: -15px;
+   margin-left: 0px;
+   }
+       
+   #foto3{
+   margin-left: 80%;
+   margin-top: -595px;
+   }
+       
+   #título1{
+   text-align: center;
+   margin-top: 80px;
+   color: #3772FF;
+   font-family: 'Times New Roman', Times, serif;
+   font-size: 14.5px;
+   margin-left: 50px;
+   }
+
+   
+#foto1{
+    margin-left: 91%;
+    margin-top: -175px;
+}
+
+footer{
+    position: absolute;
+    width: 1500px;
+    height: 70px;
+    left: -490px;
+    top: 640px;
+    background: #36d6ad;
+}
+
+
+#Item2{
+    display: flex;
+    gap: 10px;
+    flex-wrap: wrap;
+    height: 100%;
+    margin-left: 185px;
+    width: 75%;
+    margin-top: 30px;
+    
+}
+
+main{
+    display: flex;
+    min-height: 80vh;
+}
+
+#parte{
+    width: 20vw;
+    height: 20vh;
+    background-color: #F6F6F6;
+
+}
+
+#vermelho1{
+    width: 10vw;
+    margin-left: 8px;
+    margin-top: 18px;
+}
+
+#texto1{
+    color: #3772FF;
+    margin-top: -110px;
+    margin-left: 115px;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 87%;
+}
+
+#titulo1{
+    color:#737380;
+    font-family: 'Times New Roman', Times, serif;
+    margin-left: 115px;
+    margin-top: 5px;
+    font-size: 60%;
+}
+
+#vermelho2{
+    width: 10vw;
+    margin-left: 8px;
+    margin-top: 18px;
+}
+
+#texto4{
+    color: #3772FF;
+    margin-top: -110px;
+    margin-left: 115px;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 87%;
+}
+
+#titulo4{
+    color:#737380;
+    font-family: 'Times New Roman', Times, serif;
+    margin-left: 115px;
+    margin-top: 5px;
+    font-size: 60%;
+}
+
+
+#vermelho3{
+    width: 10vw;
+    margin-left: 8px;
+    margin-top: 18px;
+}
+
+#texto7{
+    color: #3772FF;
+    margin-top: -110px;
+    margin-left: 115px;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 87%;
+}
+
+#titulo7{
+    color:#737380;
+    font-family: 'Times New Roman', Times, serif;
+    margin-left: 115px;
+    margin-top: 5px;
+    font-size: 60%;
+}
+
+#verde1{
+    width: 10vw;
+    margin-left: 8px;
+    margin-top: 18px;
+}
+
+#texto2{
+    color: #3772FF;
+    margin-top: -110px;
+    margin-left: 115px;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 87%;
+}
+
+#titulo2{
+    color:#737380;
+    font-family: 'Times New Roman', Times, serif;
+    margin-left: 115px;
+    margin-top: 5px;
+    font-size: 60%;
+}
+
+#verde2{
+    width: 10vw;
+    margin-left: 8px;
+    margin-top: 18px;
+}
+
+#texto5{
+    color: #3772FF;
+    margin-top: -110px;
+    margin-left: 115px;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 87%;
+}
+
+#titulo5{
+    color:#737380;
+    font-family: 'Times New Roman', Times, serif;
+    margin-left: 115px;
+    margin-top: 5px;
+    font-size: 60%;
+}
+
+#verde3{
+    width: 10vw;
+    margin-left: 8px;
+    margin-top: 18px;
+}
+
+#texto8{
+    color: #3772FF;
+    margin-top: -110px;
+    margin-left: 115px;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 87%;
+}
+
+#titulo8{
+    color:#737380;
+    font-family: 'Times New Roman', Times, serif;
+    margin-left: 115px;
+    margin-top: 5px;
+    font-size: 60%;
+}
+
+#azul1{
+    width: 10vw;
+    margin-left: 8px;
+    margin-top: 18px;
+}
+
+#texto3{
+    color: #3772FF;
+    margin-top: -110px;
+    margin-left: 115px;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 87%;
+}
+
+#titulo3{
+    color:#737380;
+    font-family: 'Times New Roman', Times, serif;
+    margin-left: 115px;
+    margin-top: 5px;
+    font-size: 60%;
+}
+
+#azul2{
+    width: 10vw;
+    margin-left: 8px;
+    margin-top: 18px;
+}
+
+#texto6{
+    color: #3772FF;
+    margin-top: -110px;
+    margin-left: 115px;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 87%;
+}
+
+#titulo6{
+    color:#737380;
+    font-family: 'Times New Roman', Times, serif;
+    margin-left: 115px;
+    margin-top: 5px;
+    font-size: 60%;
+}
+
+#azul3{
+    width: 10vw;
+    margin-left: 8px;
+    margin-top: 18px;
+}
+
+#texto9{
+    color: #3772FF;
+    margin-top: -110px;
+    margin-left: 115px;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 87%;
+}
+
+#titulo9{
+    color:#737380;
+    font-family: 'Times New Roman', Times, serif;
+    margin-left: 115px;
+    margin-top: 5px;
+    font-size: 60%;
+}
+
+#botao{
+    margin-left: 115px;
+    border: transparent;
+    width: -40%;
+    margin-top: 10px;
+}
+
+
+  

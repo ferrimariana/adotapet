@@ -1,0 +1,74 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+body{
+    background-color: #3772FF;
+}
+
+#título{
+    text-align: center;
+    margin-top: 200px;
+    color: white;
+    font-size: 10px;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+#foto1{
+    margin-top: -210px;
+    text-align: center;
+}
+
+#título2{
+    text-align: center;
+    margin-top: +50px;
+    margin-left: 20%;
+    color: white;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 50px;
+    
+   
+    
+    
+}
+
+.botao{
+    text-align: center;
+    background-color: #FC7071;
+    width: 20%;
+    margin-left: 40%;
+    margin-top: +2%;
+}
+
+.botao2{
+    text-align: center;
+    background-color: #FC7071;
+    width: 20%;
+    margin-left: 40%;
+    margin-top: +1%;
+}
+
+footer{
+    display: block;
+    height: 80px;
+    width: 103%;
+    background-color: #36D6AD;
+    margin-top: 35%;
+
+}
+
+#foto2{
+    margin-top: 18px;
+    text-align: center;
+    width: 100%;
+}
+
+#foto3{
+    margin-left: 89%;
+    margin-top: -600px;
+}
+
+#foto4{
+    margin-top: -650px;
+}
+
